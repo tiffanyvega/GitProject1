@@ -11,4 +11,7 @@ public class DemoDay5 {
 		System.out.println("today is java day");
 
 	}
+	public void getInfo() {
+		System.out.println("Today is humid");
+	}
 }
